@@ -1,6 +1,5 @@
-# Hi, I'm [Brice!](https://www.bricesuazo.com/) 👋👨‍💻
-![Brice Suazo Github Cover Photo](https://raw.githubusercontent.com/BriceSuazo/bricesuazo/main/img/Github%20Readme%20Picture.png)
 
+# Hi, I'm [Brice!](https://www.bricesuazo.com/) 👋👨‍💻[![image alt text](https://raw.githubusercontent.com/BriceSuazo/bricesuazo/main/img/Github%20Readme%20Picture.png)](https://bricesuazo.com)
 I’m currently a BS in Computer Science student at [Cavite State University](https://cvsu.edu.ph/). Some technology stacks I enjoy working with are ReactJS, Java, and Python. I’m aspiring to become a software engineer and full-stack developer. I also love making videos such as films, VFX, and motion graphics.
 
 **Find me around the web:**
